@@ -1,0 +1,22 @@
+{
+  "name": "restaurantfinder",
+  "version": "1.0.0",
+  "description": "Finds random resturant to eat at",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darrenpicard25/restaurantFinder.git"
+  },
+  "author": "Darren Picard",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darrenpicard25/restaurantFinder/issues"
+  },
+  "homepage": "https://github.com/darrenpicard25/restaurantFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
